@@ -1,0 +1,119 @@
+id: 5c971d22a0174c7d8b66909fcb2b2bbf
+annotation_type: Language
+revision: '00001'
+annotations:
+  864feb47903541d396bb1dd92ad1650e:
+    span:
+      start: 39
+      end: 174
+    language: en
+  5e12ddd449074480a36134a62536ea4f:
+    span:
+      start: 311
+      end: 710
+    language: en
+  b51fe3f646634e82ae0d7df2af078982:
+    span:
+      start: 822
+      end: 922
+    language: en
+  f78ffff4a9db4837b369b4f8895f586f:
+    span:
+      start: 961
+      end: 992
+    language: en
+  2fd4a7d2d7694bfabb2265474d25391c:
+    span:
+      start: 3354
+      end: 3409
+    language: en
+  58e7cc71e4c54081bf100c5eed7c2b16:
+    span:
+      start: 3451
+      end: 3625
+    language: en
+  2e24d0d8244a418fa6726c5352e7e494:
+    span:
+      start: 3669
+      end: 3714
+    language: en
+  1a91685a2ae14e1895bb15bea01b5800:
+    span:
+      start: 3871
+      end: 3928
+    language: en
+  857c46b21a52440397e21499da58f26c:
+    span:
+      start: 3968
+      end: 4007
+    language: en
+  ca431bcf04bc4b55a25bf54ecdf50236:
+    span:
+      start: 4099
+      end: 4157
+    language: en
+  aaa07c9c19f3467bb7fa2d2c5ccf0038:
+    span:
+      start: 4200
+      end: 4248
+    language: en
+  2e86c8f48930496e919a10649a26eed2:
+    span:
+      start: 141924
+      end: 141950
+    language: en
+  057efb64399f4b36a3e2642e33d8e164:
+    span:
+      start: 142063
+      end: 199816
+    language: zh
+  0f7b6f0678e547c8a26cf1b8536e5fb1:
+    span:
+      start: 199872
+      end: 199900
+    language: zh
+  57ea9e91f30b44d1a5cb7fae1f1b7d59:
+    span:
+      start: 199962
+      end: 199990
+    language: zh
+  97a2bc6a6af54b29a95d53365ac2a4e3:
+    span:
+      start: 200010
+      end: 200055
+    language: zh
+  bf43b869ccc84544b8e107f9c258a2f6:
+    span:
+      start: 200132
+      end: 200192
+    language: zh
+  28982c0c09894d158b2313d41450a994:
+    span:
+      start: 200238
+      end: 200264
+    language: zh
+  c805f0bb8f1f4f30a1f14aa99e911bec:
+    span:
+      start: 200293
+      end: 200380
+    language: zh
+  699c41f47ef24c988351c68ce749cf34:
+    span:
+      start: 200381
+      end: 200401
+    language: en
+  d85e993b4b494c3a80b33aab62af6d82:
+    span:
+      start: 200402
+      end: 200445
+    language: zh
+  f08e10ffa2214b198f01f6cbc1504fda:
+    span:
+      start: 200445
+      end: 200488
+    language: en
+  bcfc7e815949488390591515e159f784:
+    span:
+      start: 200489
+      end: 200592
+    language: zh
